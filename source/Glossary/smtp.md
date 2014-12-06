@@ -10,7 +10,7 @@ navigation:
   show: true
 ---
 
-For most people, sending an email is as simple as entering an email address, writing a message, and hitting “send;” a few minutes later, the same message arrives in the recipient’s inbox. What you may not know, however, is that there is an entire process a message needs to go through for this to happen.
+For most people, sending an email is as simple as entering an email address, writing a message, and hitting “send”. A few minutes later, the same message arrives in the recipient’s inbox. What you may not know, however, is that there is an entire process a message needs to go through for this to happen.
 
 SMTP is an acronym for Simple Mail Transfer Protocol. SMTP is a process and set of guidelines that almost every email needs to go through in order to leave one outbox and arrive at another person’s inbox.
 
